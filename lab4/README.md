@@ -20,4 +20,12 @@
 ![Screenshot 2024-02-06 094017](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/c888d5ef-0d13-4891-964b-a9d57b2935c4)
 
 ## Install Grafana
+![Screenshot 2024-02-06 094138](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/4f99aa55-cff3-4319-95e4-61a248952618)
+![Screenshot 2024-02-06 094235](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/914c9a6d-c615-4bd9-97a5-38bb6f34e662)
+
+## Grafana Login
+![Screenshot 2024-02-06 100120](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/c0a2a2fc-6cd6-43df-844b-e63371d6281e)
+![Screenshot 2024-02-06 100158](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/9ad7fcbd-c222-46d2-8fa4-86ee57943ba6)
+![Screenshot 2024-02-06 100222](https://github.com/anis-vahora/BCDV-4032-BLDG-Scalable-Blockchain-Apps/assets/58881736/5da21aa2-cf2d-41c0-b00c-104ff6ac58d6)
+
 
